@@ -1,0 +1,8 @@
+<html>
+Game
+
+<script>
+	console.log("Get ready!!");
+</script>
+
+</html>
